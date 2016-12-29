@@ -7,8 +7,8 @@ Most standard HMM class here is from provided course code. Below are contributed
 * Generate Random HMM output data from given HMM model: [@HMM/rand.m](https://github.com/JinScientist/HMM-Learning-Algorithom/blob/master/%40HMM/rand.m)
 * Generate Random Markov Chain states sequence (finite and infinte) from give MC model: [@MarkovChain/rand.m](https://github.com/JinScientist/HMM-Learning-Algorithom/blob/master/%40MarkovChain/rand.m)
 * Caculate logrithm likehood probability of given training song sample: [@HMM/logprob.m](https://github.com/JinScientist/HMM-Learning-Algorithom/blob/master/%40GaussD/logprob.m)
- * Feature Extractor of song melody:[HMM-Learning-Algorithom/GetMusicFeatures/MyExtractor2.m](https://github.com/JinScientist/HMM-Learning-Algorithom/blob/master/GetMusicFeatures/MyExtractor2.m)
- * HMM model Training Code:[TrainMelody.m](https://github.com/JinScientist/HMM-Learning-Algorithom/blob/master/TrainMelody.m)
+* Feature Extractor of song melody:[HMM-Learning-Algorithom/GetMusicFeatures/MyExtractor2.m](https://github.com/JinScientist/HMM-Learning-Algorithom/blob/master/GetMusicFeatures/MyExtractor2.m)
+* HMM model Training Code:[TrainMelody.m](https://github.com/JinScientist/HMM-Learning-Algorithom/blob/master/TrainMelody.m)
  
 
 
