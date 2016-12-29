@@ -2,7 +2,7 @@
 %for an observed sequence of (possibly vector-valued) samples,
 %for each HMM object in an array of HMM objects.
 %This can be used to compare how well HMMs can explain data from an unknown source.
-%
+% This is the logrithm likehood probability of given training data 
 %Input:
 %hmm=   array of HMM objects
 %x=     matrix with a sequence of observed vectors, stored columnwise
