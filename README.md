@@ -6,4 +6,3 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 ![GitHub Logo](/runtime.png)
-Format: ![Alt Text](url)
