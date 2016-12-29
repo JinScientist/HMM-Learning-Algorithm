@@ -6,6 +6,7 @@ function [ features ] = MyExtractor2( frIsequence )
 %Use the first semitone in the melody as benchmark to caculate the ratio of
 %all other semitone. Noise and silence frequnce will also be devided by
 %benchmark.
+%Code Author: Jin Huang
 A=frIsequence(1,:);
 L=length(A);
 % ratio = A(2:end)./A(1:end-1);

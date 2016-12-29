@@ -1,3 +1,4 @@
+%code author: Jin Huang
 FS=22050;
 winlength=0.02;
 songname=char(string({
